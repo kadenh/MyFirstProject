@@ -1,0 +1,11 @@
+.idea
+
+target
+
+*.iml
+
+*.yml
+
+*.log
+
+.DS_store
